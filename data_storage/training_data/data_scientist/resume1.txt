@@ -1,0 +1,32 @@
+SARAH SMITH
+Data Scientist
+
+SUMMARY
+Results-driven data scientist with expertise in machine learning and statistical analysis.
+3 years of experience in developing predictive models and data-driven solutions.
+
+SKILLS
+- Machine Learning: Scikit-learn, TensorFlow, PyTorch
+- Programming: Python, R
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Big Data: Spark, Hadoop
+
+EXPERIENCE
+Data Scientist | Analytics Co
+2021 - Present
+- Developed machine learning models for customer segmentation
+- Created predictive analytics dashboards
+- Reduced customer churn by 15%
+
+Junior Data Analyst | Data Corp
+2020 - 2021
+- Performed statistical analysis on large datasets
+- Created automated reporting pipelines
+- Developed A/B testing frameworks
+
+EDUCATION
+Master of Science in Data Science
+Data University, 2020
+Bachelor of Science in Statistics
+Math College, 2018

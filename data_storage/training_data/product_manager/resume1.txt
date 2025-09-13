@@ -1,0 +1,32 @@
+MIKE JOHNSON
+Product Manager
+
+SUMMARY
+Strategic product manager with 4 years of experience in technology product development.
+Strong track record of delivering successful products and driving user growth.
+
+SKILLS
+- Product Management: Agile, Scrum, Kanban
+- Tools: Jira, Confluence, Trello
+- Analytics: Google Analytics, Mixpanel
+- Business: Market Analysis, User Research
+- Technical: Basic HTML/CSS, SQL
+
+EXPERIENCE
+Senior Product Manager | Product Co
+2022 - Present
+- Led development of mobile app with 1M+ users
+- Increased user retention by 25%
+- Managed cross-functional team of 10
+
+Product Manager | Tech Solutions
+2020 - 2022
+- Launched 3 successful product features
+- Conducted user research and A/B testing
+- Developed product roadmap
+
+EDUCATION
+MBA with focus in Product Management
+Business School, 2020
+Bachelor of Business Administration
+Management University, 2018

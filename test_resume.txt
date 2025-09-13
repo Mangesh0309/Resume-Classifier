@@ -1,0 +1,31 @@
+SAMPLE RESUME
+
+Jane Wilson
+Machine Learning Engineer
+
+SUMMARY
+Experienced machine learning engineer with strong background in deep learning and computer vision.
+5 years of experience building and deploying ML models at scale.
+
+SKILLS
+- Programming: Python, TensorFlow, PyTorch, Keras
+- ML/DL: Computer Vision, NLP, Reinforcement Learning
+- Cloud: AWS SageMaker, Google Cloud ML
+- Tools: Docker, Kubernetes, MLflow
+
+EXPERIENCE
+Senior ML Engineer | AI Solutions Inc.
+2021 - Present
+- Developed and deployed computer vision models for autonomous systems
+- Led team of 3 ML engineers on multiple projects
+- Improved model accuracy by 25% using advanced techniques
+
+ML Engineer | Tech Corp
+2019 - 2021
+- Built and deployed NLP models for text classification
+- Implemented ML pipelines using AWS SageMaker
+- Reduced model training time by 40%
+
+EDUCATION
+Master's in Computer Science, AI Specialization
+Tech University, 2019
